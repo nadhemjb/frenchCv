@@ -1,0 +1,5 @@
+[
+    {"etape":"Créer, modifier, supprimer et afficher les clients"}
+    {"etape":"Afficher la liste des comptes stockés dans la base de donnés"}
+    {"etape":"Consulter l'historique des opération du compte consulté"}
+]

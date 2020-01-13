@@ -1,0 +1,84 @@
+.nadhem {
+  color: #6d8c5e;
+  margin-top: -3px;
+  font-family: Amaranth, sans-serif;
+}
+
+.jbeli {
+  font-family: Amaranth, sans-serif;
+  margin-top: 10px;
+}
+
+.text-right.developer {
+  font-family: Artifika, serif;
+}
+
+.text-right.designer {
+  font-family: Asul, sans-serif;
+  color: #6d8c5e;
+  position: sticky;
+}
+
+h3 {
+  margin-left: 5px;
+}
+
+.text-right {
+  margin-right: 5px;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background-color: #6d8c5e;
+}
+
+.navbar-light .navbar-brand {
+  color: rgba(255,255,255,0.9);
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  position: inherit;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #6d8c5e;
+  background-color: #fff;
+}
+
+.container-fluid {
+  margin: 0px;
+}
+
+ul.topnav li {
+  list-style-type: none;
+  overflow: hidden;
+  float: left;
+}
+
+ul.topnav li a {
+  color: #6d8c5e;
+  text-align: center;
+  padding: 14px 16px;
+  display: inline;
+  position: relative;
+}
+
+ul.topnav {
+  max-width: 1055px;
+  padding: 10px;
+  height: 25px;
+}
+
+.navbar-light .navbar-nav .nav-link:active {
+  color: #6d8c5e;
+  background-color: #fff;
+}
+
+.container {
+  position: relative;
+}
+
